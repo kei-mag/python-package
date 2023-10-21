@@ -2,13 +2,14 @@
 
 ## Let's get started!
 
-**First, you should create a directory in the src directory with the name to be used during import like 'my_packge'.**
+**First, you should rename a directory in the src directory with the name to be used during import like 'my_package'.**
 
 ### Directory structure
 **src-layout**
 ```
 package_root
 ├── pyproject.toml
+├── requirements.txt
 ├── ...
 └── src/
     └── my_package/
