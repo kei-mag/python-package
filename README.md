@@ -1,8 +1,8 @@
-# Python package "mypackage"
+# Python package "my-package"
 
 ## Let's get started!
 
-**First, you should create a directory in the src directory with the name to be used during import like 'mypkg'.**
+**First, you should create a directory in the src directory with the name to be used during import like 'my_packge'.**
 
 ### Directory structure
 **src-layout**
@@ -11,7 +11,7 @@ package_root
 ├── pyproject.toml
 ├── ...
 └── src/
-    └── mypkg/
+    └── my_package/
         ├── __init__.py
         ├── ...
         ├── module.py
